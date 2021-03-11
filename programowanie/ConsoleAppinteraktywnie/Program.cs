@@ -25,7 +25,7 @@ namespace ConsoleAppinteraktywnie
             Console.WriteLine("Witaj {0} {1}!", Nazwisko, imie);
 
             Console.WriteLine( $"Witaj {imie} {Nazwisko}!" );
-            
+            // obsługa wieku emerytalnego
         }
     }
 }
